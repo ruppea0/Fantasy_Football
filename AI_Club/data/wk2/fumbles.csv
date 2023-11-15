@@ -1,0 +1,59 @@
+team,player,fumbles,fumblesLost,fumblesRecovered
+Minnesota Vikings,Kirk Cousins,1,1,0
+Minnesota Vikings,Brandon Powell,1,1,0
+Minnesota Vikings,Alexander Mattison,1,1,0
+Minnesota Vikings,Justin Jefferson,1,1,0
+Philadelphia Eagles,Britain Covey,1,0,0
+Philadelphia Eagles,Fletcher Cox,0,0,1
+Philadelphia Eagles,Justin Evans,0,0,1
+Philadelphia Eagles,Nicholas Morrow,0,0,1
+Philadelphia Eagles,Kelee Ringo,0,0,1
+Las Vegas Raiders,Zamir White,1,1,0
+Buffalo Bills,Taylor Rapp,0,0,1
+Seattle Seahawks,Jarran Reed,0,0,1
+Seattle Seahawks,Julian Love,0,0,1
+Detroit Lions,David Montgomery,1,1,0
+Detroit Lions,Amon-Ra St. Brown,1,1,0
+Chicago Bears,Justin Fields,2,0,1
+Chicago Bears,Lucas Patrick,0,0,1
+Tampa Bay Buccaneers,David Wells,1,0,0
+Tampa Bay Buccaneers,Deven Thompkins,1,0,0
+Tampa Bay Buccaneers,Baker Mayfield,0,0,1
+Kansas City Chiefs,Justin Watson,1,1,0
+Kansas City Chiefs,Richie James,1,1,0
+Kansas City Chiefs,Kadarius Toney,1,0,1
+Kansas City Chiefs,Creed Humphrey,1,0,0
+Kansas City Chiefs,Patrick Mahomes,0,0,1
+Kansas City Chiefs,L'Jarius Sneed,0,0,1
+Jacksonville Jaguars,Trevor Lawrence,2,1,1
+Jacksonville Jaguars,Luke Fortner,1,0,0
+Jacksonville Jaguars,Foyesade Oluokun,0,0,1
+Jacksonville Jaguars,Tim Jones,0,0,1
+Indianapolis Colts,Michael Pittman Jr.,1,0,0
+Indianapolis Colts,Kwity Paye,0,0,1
+Houston Texans,C.J. Stroud,2,1,1
+Houston Texans,Jarrett Patterson,1,0,0
+Houston Texans,Tank Dell,0,0,1
+San Francisco 49ers,Deebo Samuel,1,0,0
+San Francisco 49ers,Brock Purdy,1,0,1
+New York Jets,Dalvin Cook,1,1,0
+Dallas Cowboys,CeeDee Lamb,1,0,0
+Dallas Cowboys,Tyler Biadasz,0,0,1
+Dallas Cowboys,Micah Parsons,0,0,1
+Washington Commanders,Sam Howell,1,0,0
+Washington Commanders,Emmanuel Forbes,1,0,0
+Washington Commanders,Andrew Wylie,0,0,1
+Washington Commanders,Cody Barton,0,0,1
+Denver Broncos,Russell Wilson,1,1,0
+Miami Dolphins,Tua Tagovailoa,2,0,2
+Miami Dolphins,DeShon Elliott,0,0,1
+New England Patriots,Demario Douglas,1,1,0
+New Orleans Saints,Paulson Adebo,0,0,1
+Carolina Panthers,Bryce Young,1,1,0
+Cleveland Browns,Deshaun Watson,2,2,0
+Cleveland Browns,David Njoku,1,1,0
+Cleveland Browns,Grant Delpit,1,0,1
+Pittsburgh Steelers,Gunner Olszewski,1,1,0
+Pittsburgh Steelers,Damontae Kazee,0,0,1
+Pittsburgh Steelers,T.J. Watt,0,0,1
+Pittsburgh Steelers,Larry Ogunjobi,0,0,1
