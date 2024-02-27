@@ -1,0 +1,34 @@
+team,player,completions/passingAttempts,passingYards,yardsPerPassAttempt,passingTouchdowns,interceptions,sacks-sackYardsLost,adjQBR,QBRating
+Washington Commanders,Carson Wentz,12/22,99,4.5,0,0,3-13,15.6,66.3
+Chicago Bears,Justin Fields,14/27,190,7.0,1,1,5-36,29.6,71.5
+San Francisco 49ers,Jimmy Garoppolo,29/41,296,7.2,2,2,0-0,40.4,87.0
+Atlanta Falcons,Marcus Mariota,13/14,129,9.2,2,0,2-8,95.9,144.6
+New England Patriots,Bailey Zappe,24/34,309,9.1,2,0,2-8,63.4,118.4
+Cleveland Browns,Jacoby Brissett,21/45,266,5.9,1,2,4-8,20.0,54.5
+New York Jets,Zach Wilson,10/18,110,6.1,0,0,2-11,31.1,73.8
+Green Bay Packers,Aaron Rodgers,26/41,246,6.0,1,0,4-36,19.6,88.1
+Green Bay Packers,Jordan Love,2/4,8,2.0,0,0,0-0,8.2,56.2
+Jacksonville Jaguars,Trevor Lawrence,20/22,165,7.5,1,0,4-29,65.5,113.1
+Indianapolis Colts,Matt Ryan,42/58,389,6.7,3,0,0-0,79.7,107.6
+Minnesota Vikings,Kirk Cousins,20/30,175,5.8,2,0,3-19,46.6,104.2
+Miami Dolphins,Teddy Bridgewater,23/34,329,9.7,2,2,5-25,42.3,93.9
+Miami Dolphins,Skylar Thompson,7/13,89,6.8,0,0,1-8,48.1,75.5
+Cincinnati Bengals,Joe Burrow,28/37,300,8.1,3,0,3-27,84.0,126.0
+New Orleans Saints,Andy Dalton,17/32,162,5.1,1,0,1-7,30.4,77.9
+New Orleans Saints,Taysom Hill,2/4,16,4.0,0,0,0-0,65.0,60.4
+Baltimore Ravens,Lamar Jackson,17/32,210,6.6,1,1,2-15,60.3,71.1
+New York Giants,Daniel Jones,19/27,173,6.4,2,0,4-18,73.9,112.1
+Tampa Bay Buccaneers,Tom Brady,25/40,243,6.1,1,0,2-14,64.7,87.8
+Pittsburgh Steelers,Mitch Trubisky,9/12,144,12.0,1,0,1-6,91.7,142.4
+Pittsburgh Steelers,Kenny Pickett,11/18,67,3.7,1,0,1-12,22.9,87.0
+Carolina Panthers,PJ Walker,10/16,60,3.8,0,0,2-9,4.0,69.8
+Carolina Panthers,Jacob Eason,3/5,59,11.8,0,1,0-0,0.9,61.7
+Los Angeles Rams,Matthew Stafford,26/33,253,7.7,1,1,1-4,44.3,96.1
+Arizona Cardinals,Kyler Murray,23/37,222,6.0,0,1,6-51,30.4,67.6
+Seattle Seahawks,Geno Smith,20/31,197,6.4,0,0,5-37,43.9,82.3
+Buffalo Bills,Josh Allen,27/40,329,8.2,3,0,1-11,68.5,117.6
+Kansas City Chiefs,Patrick Mahomes,25/40,338,8.5,2,2,3-19,58.0,85.2
+Dallas Cowboys,Cooper Rush,18/38,181,4.8,1,3,0-0,31.1,37.3
+Philadelphia Eagles,Jalen Hurts,15/25,155,6.2,2,0,4-23,67.4,104.6
+Denver Broncos,Russell Wilson,15/28,188,6.7,1,0,4-28,37.2,86.6
+Los Angeles Chargers,Justin Herbert,37/57,238,4.2,0,1,2-14,46.2,66.3

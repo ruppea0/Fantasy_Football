@@ -1,0 +1,131 @@
+team,player,rushingAttempts,rushingYards,yardsPerRushAttempt,rushingTouchdowns,longRushing
+Kansas City Chiefs,Patrick Mahomes,3,32,10.7,0,32
+Kansas City Chiefs,Clyde Edwards-Helaire,9,32,3.6,0,9
+Kansas City Chiefs,Darrel Williams,5,12,2.4,0,11
+Kansas City Chiefs,Michael Burton,1,7,7.0,1,7
+Kansas City Chiefs,Blake Bell,1,3,3.0,0,3
+Kansas City Chiefs,Mecole Hardman,1,0,0.0,0,0
+Los Angeles Chargers,Justin Jackson,13,86,6.6,0,22
+Los Angeles Chargers,Austin Ekeler,12,59,4.9,1,15
+Los Angeles Chargers,Joshua Kelley,7,21,3.0,0,7
+Los Angeles Chargers,Justin Herbert,5,16,3.2,1,8
+Los Angeles Chargers,Andre Roberts,1,6,6.0,0,6
+Los Angeles Chargers,Gabe Nabers,1,4,4.0,0,4
+New England Patriots,Rhamondre Stevenson,10,36,3.6,0,13
+New England Patriots,Kendrick Bourne,2,19,9.5,0,18
+New England Patriots,Mac Jones,1,12,12.0,0,12
+New England Patriots,Jakobi Meyers,1,9,9.0,0,9
+New England Patriots,Brandon Bolden,4,3,0.8,0,3
+New England Patriots,Jonnu Smith,1,2,2.0,0,2
+Indianapolis Colts,Jonathan Taylor,29,170,5.9,1,67
+Indianapolis Colts,Ashton Dulin,2,39,19.5,0,37
+Indianapolis Colts,Carson Wentz,8,17,2.1,0,11
+Carolina Panthers,Cam Newton,15,71,4.7,1,13
+Carolina Panthers,Chuba Hubbard,8,40,5.0,0,21
+Carolina Panthers,Robbie Chosen,2,33,16.5,0,30
+Carolina Panthers,Ameer Abdullah,4,7,1.8,0,7
+Buffalo Bills,Devin Singletary,22,86,3.9,1,16
+Buffalo Bills,Josh Allen,3,24,8.0,0,26
+Buffalo Bills,Isaiah McKenzie,1,8,8.0,0,8
+Buffalo Bills,Matt Breida,1,1,1.0,0,1
+Arizona Cardinals,Chase Edmonds,6,53,8.8,0,23
+Arizona Cardinals,James Conner,8,39,4.9,0,22
+Arizona Cardinals,Jonathan Ward,1,6,6.0,0,6
+Arizona Cardinals,Colt McCoy,1,3,3.0,0,3
+Arizona Cardinals,Kyler Murray,4,3,0.8,0,4
+Arizona Cardinals,Rondale Moore,1,1,1.0,0,1
+Detroit Lions,Craig Reynolds,26,112,4.3,0,27
+Detroit Lions,Jermar Jefferson,5,9,1.8,0,6
+Detroit Lions,Amon-Ra St. Brown,1,5,5.0,0,5
+Detroit Lions,Godwin Igwebuike,2,0,0.0,0,0
+New York Jets,Tevin Coleman,8,50,6.3,0,20
+New York Jets,Michael Carter,8,18,2.3,0,6
+New York Jets,Zach Wilson,4,12,3.0,1,6
+New York Jets,Austin Walter,2,12,6.0,0,11
+New York Jets,Braxton Berrios,2,10,5.0,1,8
+Miami Dolphins,Duke Johnson,22,107,4.9,2,12
+Miami Dolphins,Myles Gaskin,10,54,5.4,0,30
+Miami Dolphins,Tua Tagovailoa,7,19,2.7,0,9
+Miami Dolphins,Jacoby Brissett,1,2,2.0,0,2
+Miami Dolphins,Albert Wilson,1,1,1.0,0,1
+Miami Dolphins,Clayton Fejedelem,1,0,0.0,0,0
+Dallas Cowboys,Tony Pollard,12,74,6.2,0,17
+Dallas Cowboys,Ezekiel Elliott,16,52,3.3,1,13
+Dallas Cowboys,Dak Prescott,2,-1,-0.5,0,0
+New York Giants,Devontae Booker,8,74,9.3,0,31
+New York Giants,Saquon Barkley,15,50,3.3,0,6
+New York Giants,Mike Glennon,1,0,0.0,0,0
+Tennessee Titans,D'Onta Foreman,22,108,4.9,0,20
+Tennessee Titans,Dontrell Hilliard,9,49,5.4,0,15
+Tennessee Titans,Jeremy McNichols,6,26,4.3,0,9
+Tennessee Titans,Ryan Tannehill,5,18,3.6,1,11
+Pittsburgh Steelers,Najee Harris,12,18,1.5,0,7
+Pittsburgh Steelers,Diontae Johnson,1,10,10.0,0,10
+Pittsburgh Steelers,Chase Claypool,1,7,7.0,0,7
+Pittsburgh Steelers,Ben Roethlisberger,3,0,0.0,1,1
+Houston Texans,Rex Burkhead,16,41,2.6,0,8
+Houston Texans,David Johnson,6,24,4.0,0,6
+Houston Texans,Royce Freeman,3,8,2.7,0,4
+Houston Texans,Davis Mills,1,2,2.0,0,2
+Jacksonville Jaguars,James Robinson,18,75,4.2,1,16
+Jacksonville Jaguars,Trevor Lawrence,5,21,4.2,0,10
+Jacksonville Jaguars,Laviska Shenault Jr.,1,10,10.0,0,10
+Jacksonville Jaguars,Dare Ogunbowale,1,1,1.0,0,1
+Cincinnati Bengals,Joe Mixon,17,58,3.4,0,12
+Cincinnati Bengals,Samaje Perine,4,30,7.5,0,22
+Cincinnati Bengals,Joe Burrow,5,25,5.0,0,8
+Denver Broncos,Javonte Williams,15,72,4.8,0,14
+Denver Broncos,Melvin Gordon III,15,53,3.5,0,13
+Denver Broncos,Teddy Bridgewater,3,10,3.3,0,6
+Denver Broncos,Drew Lock,1,-2,-2.0,0,-2
+Atlanta Falcons,Mike Davis,6,21,3.5,0,7
+Atlanta Falcons,Matt Ryan,5,20,4.0,0,8
+Atlanta Falcons,Cordarrelle Patterson,11,18,1.6,0,4
+Atlanta Falcons,Qadree Ollison,1,3,3.0,0,3
+San Francisco 49ers,Jeff Wilson Jr.,21,110,5.2,1,17
+San Francisco 49ers,Deebo Samuel,6,29,4.8,1,10
+San Francisco 49ers,JaMycal Hasty,1,13,13.0,0,13
+San Francisco 49ers,Kyle Juszczyk,1,6,6.0,1,6
+San Francisco 49ers,Jimmy Garoppolo,3,4,1.3,0,2
+Green Bay Packers,Aaron Jones,13,58,4.5,0,11
+Green Bay Packers,AJ Dillon,7,22,3.1,1,6
+Green Bay Packers,Aaron Rodgers,4,11,2.8,0,8
+Green Bay Packers,Allen Lazard,1,5,5.0,0,5
+Baltimore Ravens,Tyler Huntley,13,73,5.6,2,15
+Baltimore Ravens,Latavius Murray,7,48,6.9,0,16
+Baltimore Ravens,Devonta Freeman,6,22,3.7,0,7
+New Orleans Saints,Taysom Hill,11,33,3.0,0,9
+New Orleans Saints,Alvin Kamara,11,18,1.6,0,8
+New Orleans Saints,Mark Ingram II,9,10,1.1,0,6
+Tampa Bay Buccaneers,Ronald Jones,8,63,7.9,0,30
+Tampa Bay Buccaneers,Leonard Fournette,9,34,3.8,0,8
+Tampa Bay Buccaneers,Ke'Shawn Vaughn,3,19,6.3,0,17
+Tampa Bay Buccaneers,Tom Brady,1,2,2.0,0,2
+Las Vegas Raiders,Josh Jacobs,15,52,3.5,0,9
+Las Vegas Raiders,Peyton Barber,5,34,6.8,0,19
+Las Vegas Raiders,Derek Carr,3,7,2.3,0,6
+Las Vegas Raiders,Marcus Mariota,1,3,3.0,0,3
+Las Vegas Raiders,Dallin Leavitt,1,2,2.0,0,2
+Cleveland Browns,Nick Chubb,23,91,4.0,1,24
+Cleveland Browns,D'Ernest Johnson,1,-2,-2.0,0,-2
+Minnesota Vikings,Dalvin Cook,28,89,3.2,0,10
+Minnesota Vikings,Kene Nwangwu,3,33,11.0,0,19
+Minnesota Vikings,Kirk Cousins,2,10,5.0,0,7
+Chicago Bears,David Montgomery,18,60,3.3,0,16
+Chicago Bears,Justin Fields,7,35,5.0,0,23
+Chicago Bears,Jakeem Grant Sr.,2,17,8.5,0,13
+Chicago Bears,Darnell Mooney,1,3,3.0,0,3
+Seattle Seahawks,DeeJay Dallas,8,41,5.1,1,8
+Seattle Seahawks,Rashaad Penny,11,39,3.5,0,10
+Los Angeles Rams,Sony Michel,18,92,5.1,0,39
+Los Angeles Rams,Darrell Henderson Jr.,6,23,3.8,0,6
+Los Angeles Rams,Van Jefferson,1,10,10.0,0,10
+Los Angeles Rams,Cooper Kupp,1,1,1.0,0,1
+Los Angeles Rams,Matthew Stafford,3,-3,-1.0,0,-1
+Washington,Antonio Gibson,15,26,1.7,1,8
+Washington,Jaret Patterson,4,20,5.0,1,13
+Washington,DeAndre Carter,1,12,12.0,0,12
+Washington,Jonathan Williams,1,5,5.0,0,5
+Philadelphia Eagles,Miles Sanders,18,131,7.3,0,38
+Philadelphia Eagles,Jordan Howard,15,69,4.6,0,15
+Philadelphia Eagles,Jalen Hurts,8,38,4.8,2,12

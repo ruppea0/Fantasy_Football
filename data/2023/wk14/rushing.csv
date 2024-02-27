@@ -1,0 +1,120 @@
+team,player,rushingAttempts,rushingYards,yardsPerRushAttempt,rushingTouchdowns,longRushing
+New England Patriots,Ezekiel Elliott,22,68,3.1,0,12
+New England Patriots,Bailey Zappe,3,13,4.3,0,11
+Pittsburgh Steelers,Mitch Trubisky,8,30,3.8,1,15
+Pittsburgh Steelers,Najee Harris,12,29,2.4,0,7
+Pittsburgh Steelers,Calvin Austin III,1,12,12.0,0,12
+Pittsburgh Steelers,Jaylen Warren,7,11,1.6,0,7
+Tampa Bay Buccaneers,Rachaad White,25,102,4.1,0,12
+Tampa Bay Buccaneers,Chase Edmonds,8,40,5.0,0,15
+Tampa Bay Buccaneers,Baker Mayfield,3,3,1.0,1,2
+Tampa Bay Buccaneers,Trey Palmer,1,3,3.0,0,3
+Atlanta Falcons,Tyler Allgeier,9,40,4.4,0,9
+Atlanta Falcons,Bijan Robinson,10,34,3.4,1,8
+Atlanta Falcons,Desmond Ridder,4,15,3.8,1,7
+Atlanta Falcons,Cordarrelle Patterson,3,7,2.3,0,6
+Detroit Lions,Jahmyr Gibbs,11,66,6.0,1,36
+Detroit Lions,David Montgomery,10,66,6.6,0,13
+Detroit Lions,Jameson Williams,1,4,4.0,0,4
+Detroit Lions,Sam LaPorta,1,4,4.0,0,4
+Detroit Lions,Jared Goff,1,0,0.0,0,0
+Chicago Bears,Justin Fields,12,58,4.8,1,19
+Chicago Bears,D'Onta Foreman,11,50,4.5,0,13
+Chicago Bears,DJ Moore,3,20,6.7,1,16
+Chicago Bears,Khalil Herbert,3,8,2.7,0,4
+Chicago Bears,Roschon Johnson,1,6,6.0,0,6
+Indianapolis Colts,Zack Moss,13,28,2.2,0,12
+Indianapolis Colts,Trey Sermon,3,13,4.3,0,8
+Indianapolis Colts,Gardner Minshew,2,5,2.5,0,6
+Cincinnati Bengals,Joe Mixon,21,79,3.8,1,18
+Cincinnati Bengals,Chase Brown,8,25,3.1,0,10
+Cincinnati Bengals,Jake Browning,3,7,2.3,1,4
+Jacksonville Jaguars,Travis Etienne Jr.,14,35,2.5,1,16
+Jacksonville Jaguars,D'Ernest Johnson,3,12,4.0,0,6
+Jacksonville Jaguars,Trevor Lawrence,3,11,3.7,0,7
+Cleveland Browns,Jerome Ford,12,51,4.3,0,26
+Cleveland Browns,Kareem Hunt,10,27,2.7,1,9
+Cleveland Browns,Dorian Thompson-Robinson,1,5,5.0,0,5
+Cleveland Browns,Pierre Strong Jr.,1,0,0.0,0,0
+Cleveland Browns,Joe Flacco,4,-1,-0.3,0,2
+Carolina Panthers,Chuba Hubbard,23,87,3.8,0,13
+Carolina Panthers,Miles Sanders,10,74,7.4,0,48
+Carolina Panthers,Bryce Young,3,40,13.3,0,21
+Carolina Panthers,Ihmir Smith-Marsette,1,10,10.0,0,10
+Carolina Panthers,Raheem Blackshear,1,4,4.0,0,4
+Carolina Panthers,Johnny Hekker,1,-11,-11.0,0,-11
+New Orleans Saints,Alvin Kamara,12,56,4.7,1,9
+New Orleans Saints,Jamaal Williams,11,43,3.9,0,12
+New Orleans Saints,Jameis Winston,2,-2,-1.0,0,-1
+Houston Texans,Devin Singletary,13,65,5.0,1,17
+Houston Texans,Dameon Pierce,4,9,2.3,0,4
+Houston Texans,Dare Ogunbowale,2,7,3.5,0,4
+New York Jets,Breece Hall,10,40,4.0,0,15
+New York Jets,Dalvin Cook,7,13,1.9,0,5
+New York Jets,Zach Wilson,3,12,4.0,0,10
+New York Jets,Xavier Gipson,1,9,9.0,1,9
+New York Jets,Nick Bawden,1,3,3.0,0,3
+New York Jets,Garrett Wilson,1,3,3.0,0,3
+New York Jets,Israel Abanikanda,3,-1,-0.3,0,3
+Los Angeles Rams,Kyren Williams,25,114,4.6,0,14
+Los Angeles Rams,Royce Freeman,3,9,3.0,0,3
+Los Angeles Rams,Puka Nacua,1,6,6.0,0,6
+Los Angeles Rams,Matthew Stafford,1,-1,-1.0,0,-1
+Baltimore Ravens,Lamar Jackson,11,70,6.4,0,16
+Baltimore Ravens,Keaton Mitchell,9,54,6.0,0,27
+Baltimore Ravens,Gus Edwards,6,15,2.5,0,5
+Minnesota Vikings,Alexander Mattison,10,66,6.6,0,16
+Minnesota Vikings,Ty Chandler,12,35,2.9,0,7
+Minnesota Vikings,Joshua Dobbs,5,21,4.2,0,12
+Minnesota Vikings,C.J. Ham,1,7,7.0,0,7
+Minnesota Vikings,Kene Nwangwu,2,3,1.5,0,4
+Las Vegas Raiders,Josh Jacobs,13,34,2.6,0,6
+Las Vegas Raiders,Ameer Abdullah,1,12,12.0,0,12
+Las Vegas Raiders,Zamir White,2,8,4.0,0,6
+Las Vegas Raiders,Aidan O'Connell,1,2,2.0,0,2
+Seattle Seahawks,Zach Charbonnet,9,44,4.9,0,23
+Seattle Seahawks,Kenneth Walker III,8,21,2.6,0,12
+Seattle Seahawks,Drew Lock,3,5,1.7,0,3
+San Francisco 49ers,Christian McCaffrey,16,145,9.1,0,72
+San Francisco 49ers,Jordan Mason,4,20,5.0,1,8
+San Francisco 49ers,Brock Purdy,2,7,3.5,0,8
+San Francisco 49ers,Deebo Samuel,1,1,1.0,1,1
+Buffalo Bills,James Cook,10,58,5.8,0,15
+Buffalo Bills,Josh Allen,10,32,3.2,1,8
+Buffalo Bills,Ty Johnson,5,19,3.8,0,7
+Buffalo Bills,Latavius Murray,3,9,3.0,0,4
+Kansas City Chiefs,Clyde Edwards-Helaire,11,39,3.5,0,7
+Kansas City Chiefs,Jerick McKinnon,4,19,4.8,1,7
+Kansas City Chiefs,Kadarius Toney,2,16,8.0,0,14
+Kansas City Chiefs,Patrick Mahomes,1,8,8.0,0,8
+Denver Broncos,Javonte Williams,17,66,3.9,1,20
+Denver Broncos,Jaleel McLaughlin,5,25,5.0,0,9
+Denver Broncos,Samaje Perine,2,8,4.0,0,5
+Denver Broncos,Russell Wilson,6,5,0.8,0,7
+Denver Broncos,Michael Burton,1,2,2.0,0,2
+Los Angeles Chargers,Austin Ekeler,10,51,5.1,1,9
+Los Angeles Chargers,Isaiah Spiller,6,19,3.2,0,6
+Los Angeles Chargers,Joshua Kelley,3,6,2.0,0,3
+Philadelphia Eagles,D'Andre Swift,11,39,3.5,0,7
+Philadelphia Eagles,Jalen Hurts,5,30,6.0,0,11
+Philadelphia Eagles,Kenneth Gainwell,4,28,7.0,0,11
+Philadelphia Eagles,Boston Scott,3,9,3.0,0,4
+Dallas Cowboys,Tony Pollard,16,59,3.7,0,11
+Dallas Cowboys,Rico Dowdle,12,46,3.8,1,9
+Dallas Cowboys,KaVontae Turpin,1,22,22.0,0,22
+Dallas Cowboys,Dak Prescott,3,11,3.7,0,4
+Tennessee Titans,Derrick Henry,17,34,2.0,2,6
+Tennessee Titans,Tyjae Spears,7,29,4.1,0,8
+Tennessee Titans,Will Levis,4,15,3.8,0,11
+Tennessee Titans,Treylon Burks,1,5,5.0,0,5
+Miami Dolphins,Raheem Mostert,21,96,4.6,2,15
+Miami Dolphins,De'Von Achane,7,47,6.7,0,15
+Miami Dolphins,Tua Tagovailoa,3,15,5.0,0,8
+Green Bay Packers,AJ Dillon,15,53,3.5,0,8
+Green Bay Packers,Jayden Reed,4,38,9.5,1,20
+Green Bay Packers,Patrick Taylor,4,30,7.5,0,14
+Green Bay Packers,Jordan Love,2,2,1.0,0,2
+New York Giants,Saquon Barkley,20,86,4.3,2,34
+New York Giants,Tommy DeVito,10,71,7.1,0,26
+New York Giants,Wan'Dale Robinson,2,36,18.0,0,32
+New York Giants,Matt Breida,2,16,8.0,0,9

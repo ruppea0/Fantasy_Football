@@ -1,0 +1,132 @@
+team,player,rushingAttempts,rushingYards,yardsPerRushAttempt,rushingTouchdowns,longRushing
+New York Giants,Daniel Jones,9,95,10.6,1,46
+New York Giants,Saquon Barkley,13,57,4.4,0,41
+New York Giants,Devontae Booker,2,9,4.5,0,7
+New York Giants,C.J. Board,1,6,6.0,0,6
+New York Giants,Elijhaa Penny,2,5,2.5,0,3
+New York Giants,Sterling Shepard,1,-9,-9.0,0,-9
+Washington,Antonio Gibson,13,69,5.3,0,14
+Washington,J.D. McKissic,4,10,2.5,1,4
+Washington,Taylor Heinicke,4,6,1.5,0,2
+Washington,DeAndre Carter,1,2,2.0,0,2
+Cincinnati Bengals,Joe Mixon,20,69,3.5,0,10
+Chicago Bears,David Montgomery,20,61,3.1,0,11
+Chicago Bears,Justin Fields,10,31,3.1,0,10
+Chicago Bears,Andy Dalton,2,25,12.5,0,14
+Chicago Bears,Damien Williams,2,6,3.0,0,6
+Houston Texans,Mark Ingram II,14,41,2.9,0,8
+Houston Texans,David Johnson,6,25,4.2,0,8
+Houston Texans,Tyrod Taylor,1,15,15.0,1,15
+Houston Texans,Phillip Lindsay,5,2,0.4,0,5
+Houston Texans,Davis Mills,2,-1,-0.5,0,2
+Cleveland Browns,Nick Chubb,11,95,8.6,1,26
+Cleveland Browns,Kareem Hunt,13,51,3.9,0,13
+Cleveland Browns,Baker Mayfield,8,10,1.3,1,5
+Cleveland Browns,Andy Janovich,2,0,0.0,1,1
+Los Angeles Rams,Darrell Henderson Jr.,13,53,4.1,1,13
+Los Angeles Rams,Sony Michel,10,46,4.6,0,11
+Los Angeles Rams,Robert Woods,2,6,3.0,0,9
+Los Angeles Rams,Matthew Stafford,2,1,0.5,0,5
+Los Angeles Rams,Johnny Hekker,1,0,0.0,0,0
+Los Angeles Rams,Cooper Kupp,1,-5,-5.0,0,-5
+Indianapolis Colts,Jonathan Taylor,15,51,3.4,0,13
+Indianapolis Colts,Carson Wentz,5,37,7.4,0,14
+Indianapolis Colts,Marlon Mack,5,16,3.2,0,6
+Indianapolis Colts,Nyheim Hines,1,5,5.0,0,5
+Buffalo Bills,Devin Singletary,13,82,6.3,1,46
+Buffalo Bills,Josh Allen,5,35,7.0,0,15
+Buffalo Bills,Zack Moss,8,26,3.3,2,10
+Buffalo Bills,Reggie Gilliam,2,2,1.0,0,2
+Buffalo Bills,Mitch Trubisky,2,-2,-1.0,0,-1
+Miami Dolphins,Myles Gaskin,5,25,5.0,0,18
+Miami Dolphins,Malcolm Brown,5,21,4.2,0,12
+Miami Dolphins,Salvon Ahmed,6,17,2.8,0,8
+Miami Dolphins,Jacoby Brissett,4,8,2.0,0,6
+New England Patriots,Damien Harris,16,62,3.9,1,26
+New England Patriots,James White,5,20,4.0,1,7
+New England Patriots,Kendrick Bourne,1,16,16.0,0,16
+New England Patriots,J.J. Taylor,2,3,1.5,0,2
+New York Jets,Michael Carter,11,59,5.4,0,14
+New York Jets,Ty Johnson,12,50,4.2,0,17
+New York Jets,Tevin Coleman,5,24,4.8,0,17
+New York Jets,Zach Wilson,3,19,6.3,0,10
+San Francisco 49ers,Elijah Mitchell,17,42,2.5,0,10
+San Francisco 49ers,JaMycal Hasty,5,38,7.6,0,21
+San Francisco 49ers,Jimmy Garoppolo,11,20,1.8,1,7
+San Francisco 49ers,Trey Sermon,1,8,8.0,0,8
+San Francisco 49ers,Deebo Samuel,2,8,4.0,0,7
+San Francisco 49ers,Kyle Juszczyk,1,2,2.0,0,2
+San Francisco 49ers,Trenton Cannon,1,-1,-1.0,0,-1
+Philadelphia Eagles,Jalen Hurts,10,82,8.2,1,27
+Philadelphia Eagles,Miles Sanders,13,55,4.2,0,10
+Philadelphia Eagles,Kenneth Gainwell,6,14,2.3,0,6
+Las Vegas Raiders,Peyton Barber,13,32,2.5,0,13
+Las Vegas Raiders,Derek Carr,4,9,2.3,0,5
+Las Vegas Raiders,Kenyan Drake,7,9,1.3,0,5
+Las Vegas Raiders,Henry Ruggs III,1,2,2.0,0,2
+Pittsburgh Steelers,Najee Harris,10,38,3.8,0,14
+Pittsburgh Steelers,JuJu Smith-Schuster,1,3,3.0,1,3
+Pittsburgh Steelers,Benny Snell Jr.,2,1,0.5,0,1
+Pittsburgh Steelers,Chase Claypool,1,-3,-3.0,0,-3
+New Orleans Saints,Jameis Winston,3,19,6.3,1,12
+New Orleans Saints,Taysom Hill,2,16,8.0,0,9
+New Orleans Saints,Tony Jones Jr.,3,7,2.3,0,6
+New Orleans Saints,Alvin Kamara,8,5,0.6,0,5
+New Orleans Saints,Deonte Harty,1,1,1.0,0,1
+Carolina Panthers,Christian McCaffrey,24,72,3.0,1,16
+Carolina Panthers,Chuba Hubbard,8,10,1.3,0,9
+Carolina Panthers,Sam Darnold,1,7,7.0,0,7
+Denver Broncos,Javonte Williams,13,64,4.9,0,16
+Denver Broncos,Melvin Gordon III,13,31,2.4,0,8
+Denver Broncos,Teddy Bridgewater,4,1,0.3,0,2
+Jacksonville Jaguars,James Robinson,11,47,4.3,0,12
+Jacksonville Jaguars,Trevor Lawrence,2,21,10.5,0,11
+Jacksonville Jaguars,Carlos Hyde,2,7,3.5,0,6
+Jacksonville Jaguars,Laviska Shenault Jr.,1,0,0.0,0,0
+Minnesota Vikings,Dalvin Cook,22,131,6.0,0,16
+Minnesota Vikings,Kirk Cousins,2,35,17.5,0,29
+Minnesota Vikings,Alexander Mattison,3,11,3.7,0,6
+Arizona Cardinals,Chase Edmonds,8,46,5.8,0,14
+Arizona Cardinals,Kyler Murray,5,31,6.2,1,12
+Arizona Cardinals,James Conner,8,26,3.3,0,9
+Atlanta Falcons,Mike Davis,9,38,4.2,0,8
+Atlanta Falcons,Cordarrelle Patterson,7,11,1.6,1,10
+Atlanta Falcons,Matt Ryan,2,3,1.5,0,3
+Atlanta Falcons,Keith Smith,2,3,1.5,0,3
+Tampa Bay Buccaneers,Leonard Fournette,11,52,4.7,0,10
+Tampa Bay Buccaneers,Ronald Jones,6,27,4.5,0,10
+Tampa Bay Buccaneers,Tom Brady,1,6,6.0,0,6
+Tampa Bay Buccaneers,Blaine Gabbert,3,-3,-1.0,0,-1
+Dallas Cowboys,Tony Pollard,13,109,8.4,1,28
+Dallas Cowboys,Ezekiel Elliott,16,71,4.4,1,19
+Dallas Cowboys,CeeDee Lamb,1,13,13.0,0,13
+Dallas Cowboys,Cedrick Wilson Jr.,1,5,5.0,0,5
+Los Angeles Chargers,Austin Ekeler,9,54,6.0,0,20
+Los Angeles Chargers,Justin Jackson,4,21,5.3,0,7
+Los Angeles Chargers,Justin Herbert,4,12,3.0,0,5
+Los Angeles Chargers,Jalen Guyton,1,9,9.0,0,9
+Los Angeles Chargers,Larry Rountree III,1,-1,-1.0,0,-1
+Tennessee Titans,Derrick Henry,35,182,5.2,3,60
+Tennessee Titans,Ryan Tannehill,4,27,6.8,0,19
+Tennessee Titans,Jeremy McNichols,1,3,3.0,0,3
+Seattle Seahawks,Chris Carson,13,31,2.4,2,8
+Seattle Seahawks,Alex Collins,1,25,25.0,0,25
+Seattle Seahawks,Russell Wilson,3,16,5.3,0,12
+Seattle Seahawks,Freddie Swain,1,5,5.0,0,5
+Kansas City Chiefs,Clyde Edwards-Helaire,13,46,3.5,0,9
+Kansas City Chiefs,Tyreek Hill,1,15,15.0,0,15
+Kansas City Chiefs,Patrick Mahomes,1,3,3.0,0,3
+Kansas City Chiefs,Darrel Williams,3,-2,-0.7,1,2
+Baltimore Ravens,Lamar Jackson,16,107,6.7,2,21
+Baltimore Ravens,Ty'Son Williams,13,77,5.9,0,20
+Baltimore Ravens,Latavius Murray,9,36,4.0,1,8
+Baltimore Ravens,Devonta Freeman,2,29,14.5,0,31
+Baltimore Ravens,Patrick Ricard,1,2,2.0,0,2
+Detroit Lions,Jared Goff,4,46,11.5,0,26
+Detroit Lions,D'Andre Swift,8,37,4.6,0,12
+Detroit Lions,Jamaal Williams,7,25,3.6,0,8
+Green Bay Packers,Aaron Jones,17,67,3.9,1,9
+Green Bay Packers,AJ Dillon,5,18,3.6,0,8
+Green Bay Packers,Kylin Hill,2,8,4.0,0,5
+Green Bay Packers,Aaron Rodgers,4,6,1.5,0,5
+Green Bay Packers,Jordan Love,3,-3,-1.0,0,-1

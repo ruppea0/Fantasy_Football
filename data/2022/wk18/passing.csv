@@ -1,0 +1,43 @@
+team,player,completions/passingAttempts,passingYards,yardsPerPassAttempt,passingTouchdowns,interceptions,sacks-sackYardsLost,adjQBR,QBRating
+Kansas City Chiefs,Patrick Mahomes,18/26,202,7.8,1,0,2-21,82.9,105.0
+Las Vegas Raiders,Jarrett Stidham,22/36,219,6.1,1,1,6-39,31.1,76.0
+Tennessee Titans,Joshua Dobbs,20/29,179,6.2,1,1,4-14,69.6,82.4
+Jacksonville Jaguars,Trevor Lawrence,20/32,212,6.6,1,0,1-9,45.6,92.2
+Tampa Bay Buccaneers,Tom Brady,13/17,84,4.9,1,0,0-0,68.6,106.0
+Tampa Bay Buccaneers,Blaine Gabbert,6/8,29,3.6,1,0,0-0,59.9,119.3
+Tampa Bay Buccaneers,Kyle Trask,3/9,23,2.6,0,0,0-0,1.7,42.4
+Atlanta Falcons,Desmond Ridder,19/30,224,7.5,2,0,2-16,76.5,108.2
+New England Patriots,Mac Jones,26/40,243,6.1,3,3,1-9,70.1,75.3
+Buffalo Bills,Josh Allen,19/31,254,8.2,3,1,2-17,82.9,106.1
+Minnesota Vikings,Kirk Cousins,17/20,225,11.3,1,0,0-0,82.3,130.2
+Minnesota Vikings,Nick Mullens,11/13,116,8.9,0,1,0-0,47.8,71.8
+Chicago Bears,Nathan Peterman,11/19,114,6.0,1,0,1-6,47.2,92.9
+Chicago Bears,Tim Boyle,2/8,33,4.1,0,2,0-0,1.2,4.7
+Baltimore Ravens,Anthony Brown,19/44,286,6.5,0,2,4-10,6.0,46.2
+Cincinnati Bengals,Joe Burrow,25/42,215,5.1,1,0,2-13,26.2,81.0
+Houston Texans,Davis Mills,22/38,298,7.8,3,2,1-10,67.7,87.4
+Houston Texans,Jeff Driskel,2/2,13,6.5,0,0,0-0,29.8,93.8
+Indianapolis Colts,Sam Ehlinger,23/35,209,6.0,2,2,2-7,30.8,77.0
+New York Jets,Joe Flacco,18/33,149,4.5,0,0,0-0,58.1,66.4
+Miami Dolphins,Skylar Thompson,20/31,152,4.9,0,0,1-12,15.7,76.3
+Carolina Panthers,Sam Darnold,5/15,43,2.9,0,2,2-11,11.9,2.8
+New Orleans Saints,Andy Dalton,15/25,171,6.8,1,0,1-10,50.5,93.9
+Cleveland Browns,Deshaun Watson,19/29,230,7.9,2,2,7-57,42.5,84.0
+Pittsburgh Steelers,Kenny Pickett,13/29,195,6.7,1,0,1-6,68.6,79.0
+Los Angeles Chargers,Justin Herbert,25/37,273,7.4,2,0,1-5,86.4,107.2
+Los Angeles Chargers,Chase Daniel,5/7,25,3.6,1,0,0-0,75.3,116.1
+Denver Broncos,Russell Wilson,13/24,283,11.8,3,1,2-17,60.6,118.6
+New York Giants,Davis Webb,23/40,168,4.2,1,0,0-0,76.9,75.8
+New York Giants,Lawrence Cager,0/0,0,0.0,0,0,1-2,1.8,0.0
+New York Giants,Jamie Gillan,0/0,0,0.0,0,0,1-11,--,0.0
+Philadelphia Eagles,Jalen Hurts,20/35,229,6.5,0,1,3-22,24.5,65.1
+Arizona Cardinals,David Blough,14/18,180,10.0,1,2,3-15,11.4,87.3
+Arizona Cardinals,Trace McSorley,6/9,29,3.2,0,1,0-0,18.8,31.5
+San Francisco 49ers,Brock Purdy,15/20,178,8.9,3,0,4-36,53.7,141.2
+Los Angeles Rams,Baker Mayfield,13/26,147,5.7,0,1,5-24,10.2,51.3
+Seattle Seahawks,Geno Smith,19/31,213,6.9,1,2,3-8,39.3,65.7
+Dallas Cowboys,Dak Prescott,14/37,128,3.5,1,1,1-10,15.9,45.8
+Dallas Cowboys,Cooper Rush,0/1,0,0.0,0,0,0-0,1.4,39.6
+Washington Commanders,Sam Howell,11/19,169,8.9,1,1,3-11,48.3,83.0
+Detroit Lions,Jared Goff,23/34,224,6.6,0,0,1-5,42.9,85.9
+Green Bay Packers,Aaron Rodgers,17/27,205,7.6,1,1,2-17,40.8,83.1

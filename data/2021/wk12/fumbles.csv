@@ -1,0 +1,65 @@
+team,player,fumbles,fumblesLost,fumblesRecovered
+Chicago Bears,Sam Mustipher,1,0,0
+Chicago Bears,Andy Dalton,0,0,1
+Chicago Bears,Trevis Gipson,0,0,1
+Detroit Lions,Jared Goff,1,1,0
+Detroit Lions,D'Andre Swift,1,0,0
+Detroit Lions,Jerry Jacobs,1,0,1
+Las Vegas Raiders,Derek Carr,1,0,0
+Las Vegas Raiders,John Simpson,0,0,1
+Buffalo Bills,Marquez Stevenson,1,0,1
+Pittsburgh Steelers,Ben Roethlisberger,2,1,1
+Cincinnati Bengals,Sam Hubbard,0,0,1
+Tampa Bay Buccaneers,Chris Godwin,1,1,0
+Tampa Bay Buccaneers,Scott Miller,0,0,1
+Tampa Bay Buccaneers,Lavonte David,0,0,1
+Tampa Bay Buccaneers,Shaquil Barrett,0,0,1
+Indianapolis Colts,Carson Wentz,1,1,0
+Indianapolis Colts,Zach Pascal,1,1,0
+Indianapolis Colts,Nyheim Hines,1,1,0
+Indianapolis Colts,Andrew Sendejo,0,0,1
+Carolina Panthers,Frankie Luvu,0,0,1
+Miami Dolphins,Tua Tagovailoa,2,0,1
+Miami Dolphins,Austin Reiter,1,1,0
+Miami Dolphins,Jevon Holland,1,0,1
+Miami Dolphins,Jesse Davis,0,0,1
+Tennessee Titans,Khari Blasingame,1,1,0
+Tennessee Titans,D'Onta Foreman,1,1,0
+Tennessee Titans,Dontrell Hilliard,1,1,0
+Tennessee Titans,Ryan Tannehill,1,0,0
+Tennessee Titans,Anthony Firkser,1,0,1
+Tennessee Titans,Taylor Lewan,0,0,1
+New England Patriots,Jalen Mills,0,0,1
+New England Patriots,Jahlani Tavai,0,0,1
+New England Patriots,Kyle Dugger,0,0,1
+Philadelphia Eagles,Boston Scott,1,1,0
+New York Giants,Tae Crowder,1,0,0
+New York Giants,Julian Love,0,0,1
+Atlanta Falcons,Marlon Davidson,0,0,1
+Jacksonville Jaguars,James Robinson,1,1,0
+Jacksonville Jaguars,Jaydon Mickens,1,0,0
+Jacksonville Jaguars,Trevor Lawrence,1,0,0
+Jacksonville Jaguars,Chris Manhertz,0,0,1
+Jacksonville Jaguars,Chris Claybrooks,0,0,1
+New York Jets,Zach Wilson,1,0,0
+Houston Texans,Tyrod Taylor,1,0,1
+Denver Broncos,Drew Lock,1,0,0
+Denver Broncos,Tim Patrick,0,0,1
+Los Angeles Rams,Matthew Stafford,1,1,0
+Los Angeles Rams,J.J. Koski,1,1,0
+Los Angeles Rams,Robert Rochell,0,0,1
+Green Bay Packers,Randall Cobb,1,1,0
+Green Bay Packers,Marcedes Lewis,1,0,0
+Green Bay Packers,Preston Smith,1,0,2
+Green Bay Packers,Yosh Nijman,0,0,1
+Green Bay Packers,Krys Barnes,0,0,1
+Minnesota Vikings,Dalvin Cook,1,1,0
+Minnesota Vikings,Tyler Conklin,1,0,1
+San Francisco 49ers,Azeez Al-Shaair,0,0,1
+Cleveland Browns,Jarvis Landry,1,1,0
+Cleveland Browns,Baker Mayfield,1,1,0
+Baltimore Ravens,Patrick Queen,0,0,1
+Baltimore Ravens,Odafe Oweh,0,0,1
+Seattle Seahawks,Alex Collins,1,1,0
+Washington,DeAndre Carter,1,0,1
+Washington,Cole Holcomb,0,0,1

@@ -1,0 +1,60 @@
+team,player,fumbles,fumblesLost,fumblesRecovered
+Green Bay Packers,Juwann Winfree,1,0,0
+Green Bay Packers,Amari Rodgers,1,0,0
+Green Bay Packers,Oren Burks,0,0,1
+Green Bay Packers,Ty Summers,0,0,1
+Arizona Cardinals,Rondale Moore,1,1,0
+Arizona Cardinals,Kyler Murray,1,0,1
+Carolina Panthers,Chuba Hubbard,1,1,0
+Atlanta Falcons,Matt Ryan,1,0,1
+Atlanta Falcons,Adetokunbo Ogundeji,0,0,1
+Miami Dolphins,Austin Reiter,1,1,0
+Miami Dolphins,Tua Tagovailoa,1,0,0
+Miami Dolphins,Robert Hunt,0,0,1
+Buffalo Bills,Josh Allen,1,0,0
+Buffalo Bills,Micah Hyde,0,0,1
+Chicago Bears,Justin Fields,2,0,0
+Chicago Bears,Marquise Goodwin,1,0,0
+Chicago Bears,Ryan Nall,0,0,1
+Chicago Bears,Khalil Herbert,0,0,1
+Pittsburgh Steelers,Ray-Ray McCloud III,1,0,0
+Pittsburgh Steelers,T.J. Watt,0,0,1
+Pittsburgh Steelers,Justin Layne,0,0,1
+Cleveland Browns,Jarvis Landry,1,1,0
+Philadelphia Eagles,Darius Slay,0,0,1
+Detroit Lions,D'Andre Swift,1,1,0
+Detroit Lions,Jared Goff,1,0,1
+Detroit Lions,David Blough,1,0,0
+Detroit Lions,Tommy Kraemer,0,0,1
+Tennessee Titans,Derrick Henry,1,0,1
+Tennessee Titans,Anthony Firkser,0,0,1
+Indianapolis Colts,Tyquan Lewis,1,1,0
+Indianapolis Colts,Carson Wentz,1,0,0
+Indianapolis Colts,Jonathan Taylor,0,0,1
+Cincinnati Bengals,Joe Burrow,1,0,0
+Cincinnati Bengals,Riley Reiff,0,0,1
+Cincinnati Bengals,Vonn Bell,0,0,1
+New York Jets,Jamison Crowder,1,1,0
+Houston Texans,Danny Amendola,1,0,0
+Houston Texans,Davis Mills,1,0,1
+New England Patriots,Kendrick Bourne,1,1,0
+Los Angeles Chargers,Nasir Adderley,0,0,1
+Washington,Taylor Heinicke,2,0,1
+Washington,Charles Leno Jr.,0,0,1
+Washington,David Mayo,0,0,1
+Denver Broncos,Melvin Gordon III,1,1,0
+Tampa Bay Buccaneers,Tom Brady,1,1,0
+New Orleans Saints,Trevor Siemian,1,0,1
+New Orleans Saints,David Onyemata,0,0,1
+Dallas Cowboys,Cooper Rush,1,1,0
+Dallas Cowboys,Amari Cooper,1,0,0
+Minnesota Vikings,Kirk Cousins,1,0,1
+Minnesota Vikings,Anthony Barr,0,0,1
+New York Giants,Dante Pettis,1,0,0
+New York Giants,Daniel Jones,1,0,0
+New York Giants,James Bradberry,0,0,1
+New York Giants,Billy Price,0,0,1
+New York Giants,Keion Crossen,0,0,1
+Kansas City Chiefs,Travis Kelce,1,1,0
+Kansas City Chiefs,Patrick Mahomes,1,0,0
+Kansas City Chiefs,Trey Smith,0,0,1

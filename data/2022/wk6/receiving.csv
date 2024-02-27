@@ -1,0 +1,220 @@
+team,player,receptions,receivingYards,yardsPerReception,receivingTouchdowns,longReception,receivingTargets
+Washington Commanders,Terry McLaurin,3,41,13.7,0,17,4
+Washington Commanders,Cole Turner,2,23,11.5,0,18,2
+Washington Commanders,Antonio Gibson,3,18,6.0,0,8,4
+Washington Commanders,Cam Sims,1,6,6.0,0,6,2
+Washington Commanders,Curtis Samuel,2,6,3.0,0,3,5
+Washington Commanders,Dax Milne,1,5,5.0,0,5,1
+Washington Commanders,J.D. McKissic,0,0,0.0,0,0,3
+Washington Commanders,Dyami Brown,0,0,0.0,0,0,1
+Chicago Bears,Dante Pettis,4,84,21.0,1,40,7
+Chicago Bears,Darnell Mooney,7,68,9.7,0,26,12
+Chicago Bears,Cole Kmet,1,15,15.0,0,15,3
+Chicago Bears,David Montgomery,1,13,13.0,0,13,1
+Chicago Bears,Velus Jones Jr.,1,10,10.0,0,10,1
+Chicago Bears,Ryan Griffin,0,0,0.0,0,0,1
+Chicago Bears,Ihmir Smith-Marsette,0,0,0.0,0,0,1
+San Francisco 49ers,Brandon Aiyuk,8,83,10.4,2,14,11
+San Francisco 49ers,George Kittle,8,83,10.4,0,19,10
+San Francisco 49ers,Deebo Samuel,7,79,11.3,0,27,10
+San Francisco 49ers,Kyle Juszczyk,4,33,8.3,0,10,4
+San Francisco 49ers,Jauan Jennings,2,18,9.0,0,9,3
+San Francisco 49ers,Jeff Wilson Jr.,0,0,0.0,0,0,1
+San Francisco 49ers,Ray-Ray McCloud III,0,0,0.0,0,0,1
+San Francisco 49ers,Charlie Woerner,0,0,0.0,0,0,1
+Atlanta Falcons,Olamide Zaccheaus,4,58,14.5,0,37,4
+Atlanta Falcons,Drake London,3,40,13.3,0,20,4
+Atlanta Falcons,Kyle Pitts,3,19,6.3,1,7,3
+Atlanta Falcons,Keith Smith,1,8,8.0,0,8,1
+Atlanta Falcons,MyCole Pruitt,1,2,2.0,1,2,1
+Atlanta Falcons,Avery Williams,1,2,2.0,0,2,1
+New England Patriots,DeVante Parker,4,64,16.0,0,29,6
+New England Patriots,Hunter Henry,4,61,15.3,1,31,7
+New England Patriots,Jonnu Smith,2,61,30.5,0,53,2
+New England Patriots,Jakobi Meyers,4,60,15.0,0,27,4
+New England Patriots,Tyquan Thornton,4,37,9.3,1,21,5
+New England Patriots,Kendrick Bourne,1,17,17.0,0,17,1
+New England Patriots,Rhamondre Stevenson,4,15,3.8,0,7,5
+New England Patriots,Bailey Zappe,1,-6,-6.0,0,-6,1
+Cleveland Browns,Donovan Peoples-Jones,4,74,18.5,0,37,5
+Cleveland Browns,David Njoku,3,58,19.3,0,33,6
+Cleveland Browns,Amari Cooper,4,44,11.0,1,15,12
+Cleveland Browns,Pharaoh Brown,2,21,10.5,0,11,3
+Cleveland Browns,Harrison Bryant,3,18,6.0,0,7,4
+Cleveland Browns,Michael Woods II,1,15,15.0,0,15,2
+Cleveland Browns,Nick Chubb,1,14,14.0,0,14,2
+Cleveland Browns,David Bell,1,13,13.0,0,13,2
+Cleveland Browns,D'Ernest Johnson,2,9,4.5,0,7,2
+Cleveland Browns,Kareem Hunt,0,0,0.0,0,0,1
+Cleveland Browns,Anthony Schwartz,0,0,0.0,0,0,3
+New York Jets,Corey Davis,2,52,26.0,0,41,4
+New York Jets,C.J. Uzomah,2,17,8.5,0,14,2
+New York Jets,Tyler Conklin,1,16,16.0,0,16,2
+New York Jets,Garrett Wilson,1,8,8.0,0,8,5
+New York Jets,Braxton Berrios,1,6,6.0,0,6,1
+New York Jets,Michael Carter,1,6,6.0,0,6,1
+New York Jets,Breece Hall,2,5,2.5,0,3,2
+Green Bay Packers,Robert Tonyan,10,90,9.0,0,16,12
+Green Bay Packers,Allen Lazard,4,76,19.0,1,35,9
+Green Bay Packers,Aaron Jones,3,25,8.3,0,14,4
+Green Bay Packers,Romeo Doubs,4,21,5.3,0,8,9
+Green Bay Packers,Amari Rodgers,1,14,14.0,0,14,1
+Green Bay Packers,AJ Dillon,4,11,2.8,0,7,6
+Green Bay Packers,Josiah Deguara,1,9,9.0,0,9,1
+Green Bay Packers,Randall Cobb,1,8,8.0,0,8,1
+Green Bay Packers,Juwann Winfree,0,0,0.0,0,0,1
+Jacksonville Jaguars,Zay Jones,5,42,8.4,0,18,5
+Jacksonville Jaguars,Evan Engram,5,40,8.0,0,16,6
+Jacksonville Jaguars,Christian Kirk,4,24,6.0,1,12,5
+Jacksonville Jaguars,Travis Etienne Jr.,2,22,11.0,0,22,2
+Jacksonville Jaguars,Tim Jones,1,20,20.0,0,20,1
+Jacksonville Jaguars,Luke Farrell,1,11,11.0,0,11,1
+Jacksonville Jaguars,Jamal Agnew,1,5,5.0,0,5,1
+Jacksonville Jaguars,James Robinson,1,1,1.0,0,1,1
+Indianapolis Colts,Michael Pittman Jr.,13,134,10.3,0,20,16
+Indianapolis Colts,Deon Jackson,10,79,7.9,0,22,10
+Indianapolis Colts,Parris Campbell,7,57,8.1,1,15,11
+Indianapolis Colts,Alec Pierce,3,49,16.3,1,32,7
+Indianapolis Colts,Kylen Granson,4,38,9.5,0,17,4
+Indianapolis Colts,Jelani Woods,2,27,13.5,1,17,3
+Indianapolis Colts,Phillip Lindsay,3,5,1.7,0,5,3
+Indianapolis Colts,Mike Strachan,0,0,0.0,0,0,2
+Minnesota Vikings,Justin Jefferson,6,107,17.8,0,47,8
+Minnesota Vikings,Adam Thielen,4,36,9.0,1,14,8
+Minnesota Vikings,K.J. Osborn,3,18,6.0,0,8,5
+Minnesota Vikings,Irv Smith Jr.,4,7,1.8,1,4,4
+Minnesota Vikings,Dalvin Cook,1,6,6.0,0,6,1
+Minnesota Vikings,Johnny Mundt,2,1,0.5,0,1,2
+Miami Dolphins,Tyreek Hill,12,177,14.8,0,28,15
+Miami Dolphins,Jaylen Waddle,6,129,21.5,0,49,10
+Miami Dolphins,Mike Gesicki,6,69,11.5,2,18,7
+Miami Dolphins,Chase Edmonds,2,28,14.0,0,14,2
+Miami Dolphins,Alec Ingold,2,10,5.0,0,8,2
+Miami Dolphins,Trent Sherfield,1,6,6.0,0,6,4
+Miami Dolphins,River Cracraft,0,0,0.0,0,0,1
+Miami Dolphins,Tanner Conner,0,0,0.0,0,0,2
+Miami Dolphins,Raheem Mostert,1,-1,-1.0,0,-1,2
+Cincinnati Bengals,Ja'Marr Chase,7,132,18.9,2,60,10
+Cincinnati Bengals,Tyler Boyd,6,66,11.0,0,21,6
+Cincinnati Bengals,Tee Higgins,6,47,7.8,0,13,9
+Cincinnati Bengals,Joe Mixon,4,23,5.8,1,9,6
+Cincinnati Bengals,Hayden Hurst,3,21,7.0,0,9,3
+Cincinnati Bengals,Samaje Perine,2,11,5.5,0,9,2
+New Orleans Saints,Tre'Quan Smith,3,43,14.3,1,18,3
+New Orleans Saints,Juwan Johnson,4,41,10.3,0,20,6
+New Orleans Saints,Marquez Callaway,3,36,12.0,0,20,7
+New Orleans Saints,Alvin Kamara,6,25,4.2,0,9,9
+New Orleans Saints,Keith Kirkwood,1,14,14.0,0,14,1
+New Orleans Saints,Mark Ingram II,1,11,11.0,0,11,2
+New Orleans Saints,Adam Trautman,1,8,8.0,0,8,1
+New Orleans Saints,Kevin White,0,0,0.0,0,0,1
+New Orleans Saints,Rashid Shaheed,0,0,0.0,0,0,1
+Baltimore Ravens,Mark Andrews,7,106,15.1,1,18,11
+Baltimore Ravens,Isaiah Likely,2,30,15.0,0,19,4
+Baltimore Ravens,Demarcus Robinson,3,27,9.0,0,15,5
+Baltimore Ravens,Josh Oliver,2,21,10.5,0,12,3
+Baltimore Ravens,Devin Duvernay,1,14,14.0,0,14,5
+Baltimore Ravens,Kenyan Drake,1,8,8.0,0,8,2
+Baltimore Ravens,Tylan Wallace,1,4,4.0,0,4,1
+Baltimore Ravens,Patrick Ricard,0,0,0.0,0,0,1
+New York Giants,Daniel Bellinger,5,38,7.6,1,10,5
+New York Giants,Wan'Dale Robinson,3,37,12.3,1,17,4
+New York Giants,Marcus Johnson,2,25,12.5,0,18,4
+New York Giants,Darius Slayton,1,18,18.0,0,18,3
+New York Giants,Richie James,2,18,9.0,0,10,2
+New York Giants,Matt Breida,2,17,8.5,0,15,2
+New York Giants,Saquon Barkley,3,12,4.0,0,5,3
+New York Giants,David Sills V,1,8,8.0,0,8,2
+Tampa Bay Buccaneers,Chris Godwin,6,95,15.8,0,28,12
+Tampa Bay Buccaneers,Mike Evans,4,42,10.5,0,20,4
+Tampa Bay Buccaneers,Leonard Fournette,6,38,6.3,1,11,6
+Tampa Bay Buccaneers,Cade Otton,2,23,11.5,0,17,3
+Tampa Bay Buccaneers,Russell Gage,2,20,10.0,0,11,4
+Tampa Bay Buccaneers,Cameron Brate,2,14,7.0,0,8,3
+Tampa Bay Buccaneers,Rachaad White,3,11,3.7,0,6,4
+Tampa Bay Buccaneers,Breshad Perriman,0,0,0.0,0,0,1
+Pittsburgh Steelers,Chase Claypool,7,96,13.7,1,26,7
+Pittsburgh Steelers,Connor Heyward,2,49,24.5,0,45,3
+Pittsburgh Steelers,Diontae Johnson,5,28,5.6,0,9,7
+Pittsburgh Steelers,George Pickens,3,27,9.0,0,14,6
+Pittsburgh Steelers,Najee Harris,2,7,3.5,1,6,3
+Pittsburgh Steelers,Zach Gentry,1,4,4.0,0,4,1
+Carolina Panthers,Christian McCaffrey,7,89,12.7,0,49,8
+Carolina Panthers,Ian Thomas,2,22,11.0,0,16,2
+Carolina Panthers,DJ Moore,3,7,2.3,0,5,7
+Carolina Panthers,Chuba Hubbard,1,1,1.0,0,1,1
+Carolina Panthers,Shi Smith,0,0,0.0,0,0,2
+Carolina Panthers,Terrace Marshall Jr.,0,0,0.0,0,0,1
+Los Angeles Rams,Cooper Kupp,7,80,11.4,0,22,8
+Los Angeles Rams,Allen Robinson II,5,63,12.6,1,22,6
+Los Angeles Rams,Ben Skowronek,5,40,8.0,0,19,5
+Los Angeles Rams,Brandon Powell,4,27,6.8,0,16,5
+Los Angeles Rams,Ronnie Rivers,1,14,14.0,0,14,1
+Los Angeles Rams,Malcolm Brown,1,13,13.0,0,13,1
+Los Angeles Rams,Darrell Henderson Jr.,2,9,4.5,0,7,3
+Los Angeles Rams,Tyler Higbee,1,7,7.0,0,7,2
+Arizona Cardinals,Zach Ertz,7,70,10.0,0,32,10
+Arizona Cardinals,Marquise Brown,5,68,13.6,0,26,9
+Arizona Cardinals,Rondale Moore,6,49,8.2,0,26,10
+Arizona Cardinals,Eno Benjamin,3,28,9.3,0,12,3
+Arizona Cardinals,A.J. Green,2,7,3.5,0,5,4
+Seattle Seahawks,Noah Fant,6,45,7.5,0,15,7
+Seattle Seahawks,Dee Eskridge,3,39,13.0,0,16,3
+Seattle Seahawks,DK Metcalf,2,34,17.0,0,17,7
+Seattle Seahawks,Marquise Goodwin,2,26,13.0,0,22,2
+Seattle Seahawks,Tyler Lockett,2,17,8.5,0,10,5
+Seattle Seahawks,Kenneth Walker III,2,13,6.5,0,7,3
+Seattle Seahawks,Will Dissly,1,12,12.0,0,12,1
+Seattle Seahawks,Colby Parkinson,2,11,5.5,0,7,2
+Buffalo Bills,Stefon Diggs,10,148,14.8,1,31,13
+Buffalo Bills,Gabe Davis,3,74,24.7,1,34,6
+Buffalo Bills,Dawson Knox,3,37,12.3,1,20,3
+Buffalo Bills,Devin Singletary,4,22,5.5,0,11,5
+Buffalo Bills,Reggie Gilliam,3,18,6.0,0,11,3
+Buffalo Bills,Khalil Shakir,1,14,14.0,0,14,2
+Buffalo Bills,Isaiah McKenzie,2,9,4.5,0,5,5
+Buffalo Bills,Tommy Sweeney,1,7,7.0,0,7,1
+Kansas City Chiefs,JuJu Smith-Schuster,5,113,22.6,1,42,5
+Kansas City Chiefs,Travis Kelce,8,108,13.5,0,25,10
+Kansas City Chiefs,Mecole Hardman,3,42,14.0,1,26,4
+Kansas City Chiefs,Jerick McKinnon,3,29,9.7,0,19,3
+Kansas City Chiefs,Skyy Moore,1,24,24.0,0,24,3
+Kansas City Chiefs,Noah Gray,3,13,4.3,0,7,3
+Kansas City Chiefs,Isiah Pacheco,2,9,4.5,0,12,2
+Kansas City Chiefs,Michael Burton,0,0,0.0,0,0,1
+Kansas City Chiefs,Marquez Valdes-Scantling,0,0,0.0,0,0,3
+Kansas City Chiefs,Justin Watson,0,0,0.0,0,0,1
+Dallas Cowboys,CeeDee Lamb,5,68,13.6,0,24,10
+Dallas Cowboys,Jake Ferguson,4,40,10.0,1,22,6
+Dallas Cowboys,Peyton Hendershot,2,22,11.0,0,11,5
+Dallas Cowboys,Michael Gallup,2,18,9.0,0,9,7
+Dallas Cowboys,Noah Brown,1,10,10.0,0,10,3
+Dallas Cowboys,Sean McKeon,1,10,10.0,0,10,1
+Dallas Cowboys,Tony Pollard,2,8,4.0,0,8,3
+Dallas Cowboys,Ezekiel Elliott,1,5,5.0,0,5,1
+Dallas Cowboys,KaVontae Turpin,0,0,0.0,0,0,1
+Philadelphia Eagles,A.J. Brown,5,67,13.4,1,22,8
+Philadelphia Eagles,DeVonta Smith,5,44,8.8,1,13,5
+Philadelphia Eagles,Dallas Goedert,2,22,11.0,0,14,6
+Philadelphia Eagles,Jack Stoll,1,21,21.0,0,21,1
+Philadelphia Eagles,Miles Sanders,1,1,1.0,0,1,1
+Philadelphia Eagles,Quez Watkins,1,0,0.0,0,0,1
+Denver Broncos,Jerry Jeudy,3,54,18.0,0,37,7
+Denver Broncos,Greg Dulcich,2,44,22.0,1,39,3
+Denver Broncos,KJ Hamler,2,44,22.0,0,47,3
+Denver Broncos,Eric Tomlinson,1,16,16.0,0,16,1
+Denver Broncos,Courtland Sutton,2,14,7.0,0,9,3
+Denver Broncos,Kendall Hinton,1,8,8.0,0,8,1
+Denver Broncos,Andrew Beck,1,7,7.0,0,7,1
+Denver Broncos,Mike Boone,1,3,3.0,0,3,4
+Denver Broncos,Montrell Washington,1,0,0.0,0,0,1
+Denver Broncos,Latavius Murray,1,-2,-2.0,0,-2,1
+Los Angeles Chargers,Joshua Palmer,9,57,6.3,0,14,12
+Los Angeles Chargers,Donald Parham Jr.,3,53,17.7,0,24,3
+Los Angeles Chargers,Austin Ekeler,10,47,4.7,0,9,16
+Los Angeles Chargers,Gerald Everett,5,29,5.8,0,9,7
+Los Angeles Chargers,Mike Williams,2,17,8.5,0,9,6
+Los Angeles Chargers,DeAndre Carter,3,17,5.7,0,7,5
+Los Angeles Chargers,Sony Michel,3,14,4.7,0,6,3
+Los Angeles Chargers,Michael Bandy,1,4,4.0,0,4,2
+Los Angeles Chargers,Zander Horvath,1,0,0.0,0,0,1
